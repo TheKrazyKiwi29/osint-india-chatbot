@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Bharat Maps",
+    "url": "https://bharatmaps.gov.in",
+    "category": "Maps",
+    "description": "Government map platform offering geospatial data and services for India."
+  },
+  {
+    "name": "IMD Weather Portal",
+    "url": "https://city.imd.gov.in/citywx/responsive/",
+    "category": "Climate",
+    "description": "Indian Meteorological Department's city-wise weather forecast service."
+  },
+  {
+    "name": "Vehicle Registration Details",
+    "url": "https://www.cars24.com/rto-vehicle-registration-details/",
+    "category": "Transport",
+    "description": "Lookup vehicle registration details by number plate."
+  },
+  {
+    "name": "Trains Running Info",
+    "url": "https://indianrailways.info/",
+    "category": "Transport",
+    "description": "Track live train status, schedules, and PNR info."
+  },
+  {
+    "name": "Flight Tracker",
+    "url": "https://www.flightradar24.com/19.80,72.76/6",
+    "category": "Transport",
+    "description": "Live flight tracking for Indian airspace."
+  },
+  {
+    "name": "Bus Schedule and Route Finder",
+    "url": "https://moovitapp.com/",
+    "category": "Transport",
+    "description": "Find bus, metro, and other public transport routes across Indian cities."
+  },
+  {
+    "name": "The420 Cyber Crime News",
+    "url": "https://the420.in/",
+    "category": "News",
+    "description": "Cyber crime news, reports, and investigative stories in India."
+  },
+  {
+    "name": "India Today",
+    "url": "https://www.indiatoday.in/",
+    "category": "News",
+    "description": "Mainstream Indian news covering politics, security, tech, and OSINT events."
+  },
+  {
+    "name": "Verify Aadhar Number",
+    "url": "https://myaadhaar.uidai.gov.in/verifyAadhaar",
+    "category": "People Search",
+    "description": "Verify the validity of a UIDAI-issued Aadhaar number."
+  },
+  {
+    "name": "Ration Card Search",
+    "url": "https://www.cyberyodha.org/2023/01/ration-card-deep-search-all-states.html",
+    "category": "People Search",
+    "description": "Deep search ration card data for various Indian states."
+  },
+  {
+    "name": "GST/UIN Search",
+    "url": "https://services.gst.gov.in/services/searchtp",
+    "category": "People Search",
+    "description": "Search for business details using GSTIN or UIN."
+  },
+  {
+    "name": "Find and Trace Mobile Location",
+    "url": "https://www.findandtrace.com/trace-mobile-number-location",
+    "category": "Phone Number",
+    "description": "Locates and identifies telecom circle of Indian phone numbers."
+  },
+  {
+    "name": "Truecaller Number Lookup",
+    "url": "https://www.truecaller.com/",
+    "category": "Phone Number",
+    "description": "Identify unknown callers and lookup Indian mobile numbers."
+  },
+  {
+    "name": "IMEI Device Info Check",
+    "url": "https://www.imei.info/",
+    "category": "Phone Number",
+    "description": "Verify device manufacturer and model using IMEI number."
+  },
+  {
+    "name": "Zauba Corp Business Lookup",
+    "url": "https://www.zaubacorp.com/",
+    "category": "Business Search",
+    "description": "Search for Indian company information by name, director, or CIN."
+  },
+  {
+    "name": "ePrisons Dashboard",
+    "url": "https://eprisons.nic.in/Public/DashBoard",
+    "category": "Criminal Records",
+    "description": "Access state-wise prison records and inmate details across India."
+  },
+  {
+    "name": "Statewise FIR Downloads",
+    "url": "https://www.cyberyodha.org/p/fir.html",
+    "category": "Criminal Records",
+    "description": "Find links to download FIRs from various Indian states."
+  },
+  {
+    "name": "Indian Kanoon Legal Search",
+    "url": "https://indiankanoon.org/",
+    "category": "Court Records",
+    "description": "Search judgments, laws, and case law from Indian courts."
+  },
+  {
+    "name": "eCourts Judgments & Orders",
+    "url": "https://judgments.ecourts.gov.in/pdfsearch/index.php",
+    "category": "Court Records",
+    "description": "Access court judgments, case status, and order PDFs."
+  },
+  {
+    "name": "Voter ID Search",
+    "url": "https://electoralsearch.eci.gov.in/",
+    "category": "Voter ID",
+    "description": "Search for your name in the Indian electoral roll."
+  },
+  {
+    "name": "Track Missing Child (Vatsalya)",
+    "url": "https://missionvatsalya.wcd.gov.in/",
+    "category": "Missing Persons",
+    "description": "Official portal for reporting and locating missing children in India."
+  },
+  {
+    "name": "Missing Persons India (Facebook)",
+    "url": "https://www.facebook.com/missingpersonsofindia/",
+    "category": "Missing Persons",
+    "description": "Community-driven Facebook page for posting missing person alerts in India."
+  },
+  {
+    "name": "Defense News (r/India)",
+    "url": "https://www.reddit.com/r/india/",
+    "category": "Forums",
+    "description": "Reddit's main Indian community forum with news and OSINT-relevant discussions."
+  },
+  {
+    "name": "r/AskIndia",
+    "url": "https://www.reddit.com/r/AskIndia/",
+    "category": "Forums",
+    "description": "Community Q&A hub focused on Indian topics, including governance and safety."
+  },
+  {
+    "name": "Quora India",
+    "url": "https://www.quora.com/topic/India",
+    "category": "Forums",
+    "description": "User-driven Indian discussions on politics, tech, law, and more."
+  },
+  {
+    "name": "Aerospace & Defense Twitter",
+    "url": "https://twitter.com/NewsIADN",
+    "category": "Updates",
+    "description": "Live aerospace, defense, and security news from India."
+  },
+  {
+    "name": "Indian Tech & Infra Twitter",
+    "url": "https://twitter.com/IndianTechGuide",
+    "category": "Updates",
+    "description": "Tracks tech, telecom, and infrastructure developments across India."
+  }
+]
