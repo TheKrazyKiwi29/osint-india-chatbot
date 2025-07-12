@@ -16,7 +16,8 @@ A lightweight terminal-based chatbot that helps users discover Indian OSINT (Ope
     📦 Zero dependencies (only uses Python standard library)
 
 📁 Folder Structure
-
+```
+```
 osint-chatbot/
 ├── data/
 │   └── tools.json             # Your main OSINT database
@@ -28,7 +29,8 @@ osint-chatbot/
 ├── requirements.txt
 ├── README.md
 └── main.py                    # Entry point chatbot interface
-
+```
+```
 🚀 How to Run
 1. Clone the Repository
 
