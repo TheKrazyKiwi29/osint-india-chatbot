@@ -16,21 +16,7 @@ A lightweight terminal-based chatbot that helps users discover Indian OSINT (Ope
     📦 Zero dependencies (only uses Python standard library)
 
 📁 Folder Structure
-```
-```
-osint-chatbot/
-├── data/
-│   └── tools.json             # Your main OSINT database
-├── modules/
-│   ├── classifier.py          # Regex classifier for structured inputs
-│   ├── tool_handler.py        # Tool loading, searching, and displaying logic
-│   └── intent_mapper.py       # Natural language keyword extractor
-├── .gitignore
-├── requirements.txt
-├── README.md
-└── main.py                    # Entry point chatbot interface
-```
-```
+<pre><code>📁 osint-chatbot/ ├── data/ │ └── tools.json # Your main OSINT database ├── modules/ │ ├── classifier.py # Regex classifier for structured inputs │ ├── tool_handler.py # Tool loading, searching, and displaying logic │ └── intent_mapper.py # Natural language keyword extractor ├── .gitignore ├── requirements.txt ├── README.md ├── LICENSE └── main.py # Entry point chatbot interface </code></pre>
 🚀 How to Run
 1. Clone the Repository
 
