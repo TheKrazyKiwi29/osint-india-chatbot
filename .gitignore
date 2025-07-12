@@ -1,0 +1,35 @@
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Compiled or temp files
+*.log
+*.sqlite
+*.bak
+*.swp
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Python test artifacts
+.coverage
+.tox/
+nosetests.xml
+*.egg-info/
+dist/
+build/
